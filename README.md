@@ -1,1 +1,1 @@
-trojan%3A%2F%2F0cb5109c%40tl.basophiliow.monster%3A443%23%25E8%25B0%25B7%25E6%25AD%258C%25E4%25BA%2591
+%20trojan%3Dtl.basophiliow.monster%3A443%2C%20password%3D0cb5109c%2C%20over-tls%3Dtrue%2C%20tls-verification%3Dtrue%2C%20fast-open%3Dfalse%2C%20udp-relay%3Dfalse%2C%20tag%3Dtrojan-tls-01%0A%20
