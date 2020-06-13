@@ -1,1 +1,1 @@
-trojan://1da6b842@tl.basophiliow.monster:443#%E8%B0%B7%E6%AD%8C%E4%BA%91
+trojan%3A%2F%2F0cb5109c%40tl.basophiliow.monster%3A443%23%25E8%25B0%25B7%25E6%25AD%258C%25E4%25BA%2591
